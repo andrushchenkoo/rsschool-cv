@@ -4,11 +4,11 @@ Frontend Developer
 
 ## Contact information:
 
-Phone: +38 097 495 62 23
-E-mail: alex.andrushchenko.work@gmail.com
-Location: Kyiv, Ukraine
-Telegram: @sansanych228
-[LinkedIn](https://www.linkedin.com/in/oleksandr-andrushchenko-141a36349/)
+- Phone: +38 097 495 62 23
+- E-mail: alex.andrushchenko.work@gmail.com
+- Location: Kyiv, Ukraine
+- Telegram: @sansanych228
+- [LinkedIn](https://www.linkedin.com/in/oleksandr-andrushchenko-141a36349/)
 
 ## Summary
 
